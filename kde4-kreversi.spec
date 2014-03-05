@@ -6,12 +6,12 @@ Summary:	KDE Reversi game
 Summary(pl.UTF-8):	Gra Reversi dla KDE
 Summary(pt_BR.UTF-8):	Jogo no estilo Otelo para KDE
 Name:		kde4-%{orgname}
-Version:	4.12.2
+Version:	4.12.3
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	58cb0deba8ed6cd1030d806630f1e9a6
+# Source0-md5:	fc885e73884156179851dba0e9b9eae6
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
